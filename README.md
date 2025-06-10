@@ -34,5 +34,6 @@ Na **BitForce**, lidero uma equipe dedicada e altamente capacitada, pronta para 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-usuario) 
 [![BitForce](https://img.shields.io/badge/BitForce-Empresa%20de%20TI-blueviolet)](https://bitforce.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-lorran.maicon-E4405F?logo=instagram)](https://www.instagram.com/lorran.maicon/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
